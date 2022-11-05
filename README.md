@@ -4,7 +4,6 @@
 
 ### Hi there 👋
 
-- 🔭 Currently looking for new opportunities.
-- 🌱 I’m always learning and working on becoming a better developer. Currently I'm trying out Go. So far I really like it and find developing with it gives me a lot of satisfaction.
-- 👯 I’m looking to contribute and collaborate on open source projects.
+- 🌱 I’m always learning and working on becoming a better developer. Currently trying out Go.
+- 👯 Open to contributing and collaborating on open source projects.
 - 📫 Please open an issue in this repository to get in touch or message me at [first_name.last_name]@gmail.com.
